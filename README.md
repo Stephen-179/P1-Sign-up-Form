@@ -7,15 +7,8 @@ This project focuses on practicing **HTML forms, CSS styling, and Git workflows*
 
 ---
 
-## 🔗 Live Demo
-[View Demo](#) <!-- Replace with your live preview link if deployed -->
 
----
 
-## 📸 Screenshot
-![Project Screenshot](./screenshot.png) <!-- Update path if needed -->
-
----
 
 ## 🛠️ Built With
 - **HTML5** – semantic structure
